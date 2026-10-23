@@ -32,7 +32,7 @@ img{
 }
 .projetos{
     display:grid;
-    grid-templete-columns:repeat(2,1fr);
+    grid-template-columns:repeat(2,1fr);
 gap:24px;
 }
 @media (max-width:600px) {
